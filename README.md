@@ -1,0 +1,2 @@
+# pandas
+pandas darsligio
